@@ -1,0 +1,2 @@
+def bodong():
+    input()

@@ -68,5 +68,15 @@ def magic_con():
     print((''.join(magic1)))
 
 
+'''A+B和C'''
+
+
+def A_B_or_C():
+    lend = int(input())
+    num = []
+    for i in range(0, lend - 1):
+        num[i] = input()
+
+
 if __name__ == '__main__':
     magic_con()
